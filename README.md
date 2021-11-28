@@ -5,6 +5,7 @@
 ```
 window.alert('This is a Alert Box');
 ```
+![Ayw9Y](https://user-images.githubusercontent.com/95132279/143728841-698991f3-14dc-4322-99c0-84dedae64da0.png)
 
+![mchin_200705_4086_0001 0](https://user-images.githubusercontent.com/95132279/143728847-a1da420c-58cc-430f-b70d-82883d825f79.jpg)
 
-![Ayw9Y](https://user-images.githubusercontent.com/95132279/143727986-1de15951-a11f-4ad9-9826-06de5c97d0ed.png)
